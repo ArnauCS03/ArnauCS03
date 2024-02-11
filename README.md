@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studing Computer Science in **FIB-UPC Barcelona**
   
-- 🌱 I’m currently learning **Python and Deep Learning**
+- 🌱 I’m currently learning **Python and Computer Vision**
 
 - 📫 How to reach me **arnauclaramunt03@gmail.com**
 
