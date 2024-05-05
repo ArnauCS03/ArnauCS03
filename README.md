@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arnau Claramunt</h1>
-<h3 align="center">I love C++, Pathfinding Algorithms and AI.</h3>
+<h3 align="center">I love C++, Python, Pathfinding Algorithms and AI.</h3>
 
 - 🔭 I’m currently studing Computer Science in **FIB-UPC Barcelona**
   
 - 🌱 I’m currently learning **Python and Computer Vision**
+
+- 🔆 Vision: My passion lies in explaining things, helping people and sharing ideas and codes. I really enjoy learning new skills and experiment with every technology. I hope that some of my repositories serve as a source of inspiration and utility to you, showcasing my continuous journey of self-improvement and learning. 
 
 - 📫 How to reach me **arnauclaramunt03@gmail.com**
 
