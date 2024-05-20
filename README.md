@@ -11,6 +11,15 @@
 
 - ⚡ Fun fact **I hate Prolog**
 
+<h3 align="left">Hackathons:</h3>
+
+- HackUPC 2023 - <a href="https://github.com/ArnauCS03/HackUPC2023-BattleRoyale" target="_blank"> Battle Royale </a>
+
+- BitsxlaMarató 2023 - <a href="https://github.com/ArnauCS03/BitsxlaMarato2023" target="_blank"> Banc de Sang microbiotes </a>
+  
+- HackUPC 2024 - <a href="https://github.com/ArnauCS03/GalileoAPIVisualizerHackUpc2024" target="_blank"> Galileo API Visulaizer </a>
+  
+- UAB the Hack 2024 - 2nd finnalist - <a href="https://github.com/ArnauCS03/caixa-enginyers-mes-aprop" target="_blank"> Caixa Enginyers mes a prop </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
