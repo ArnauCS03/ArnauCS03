@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studing Computer Science in **FIB-UPC Barcelona**
   
-- 🌱 I’m currently learning **Python and Computer Vision**
+- 🌱 I’m currently learning **React and App Developement**
 
 - 🔆 Vision: My passion lies in explaining things, helping people and sharing ideas and codes. I really enjoy learning new skills and experiment with every technology. I hope that some of my repositories serve as a source of inspiration and utility to you, showcasing my continuous journey of self-improvement and learning. 
 
