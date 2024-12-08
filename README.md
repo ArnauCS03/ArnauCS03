@@ -21,6 +21,9 @@
   
 - UAB the Hack 2024 - 2nd place - <a href="https://github.com/ArnauCS03/caixa-enginyers-mes-aprop" target="_blank"> Caixa Enginyers mes a prop </a>
 
+- LauzHack 2024 - 1st place - <a href="https://github.com/ArnauCS03/machine-control-monitoring" target="_blank"> Machine Control Monitoring </a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
