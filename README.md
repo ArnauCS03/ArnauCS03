@@ -66,6 +66,8 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/> </a> 
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
   <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" alt="laravel" width="40" height="40"/> </a> 
+  <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/es-es/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/barryclark/jekyll-now/blob/master/images/jekyll-logo.png?raw=true" alt="jekyll" width="40" height="40"/> </a> 
   <a href="https://jutge.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ArnauCS03/ArnauCS03/assets/95536223/be3dbd47-81dc-420a-997a-1884caa5652b" alt="jutge" width="40" height="40"/> </a> 
   <a href="https://www.coliseum.ai/" target="_blank" rel="noreferrer"> <img src="https://github.com/ArnauCS03/ArnauCS03/assets/95536223/3d75ffbf-c883-4496-a9e9-f68f801d61eb" alt="aicolliseum" width="40" height="40"/> </a> 
@@ -78,6 +80,7 @@
   <a href="https://www.jetbrains.com/es-es/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg" alt="intellij" width="36" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="jpnotebook" width="40" height="40"/> </a>
   <a href="https://devpost.com/arnau-claramunt?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" alt="devpost" width="44" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="github" width="40" height="40"/> </a> 
   
