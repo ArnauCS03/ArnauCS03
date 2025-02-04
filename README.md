@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arnau Claramunt</h1>
 <h3 align="center">I love C++, Python, Pathfinding Algorithms and AI.</h3>
 
-- 🔭 I’m currently studing Computer Science in **FIB-UPC Barcelona**
+- 🔭 I’m currently studying Computer Science in **FIB-UPC Barcelona**
   
-- 🌱 I’m currently learning **React and App Developement**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
-- 🔆 Vision: My passion lies in explaining things, helping people and sharing ideas and codes. I really enjoy learning new skills and experiment with every technology. I hope that some of my repositories serve as a source of inspiration and utility to you, showcasing my continuous journey of self-improvement and learning. 
+- 🔆 Vision: My passion lies in explaining things, helping people and sharing ideas and codes. I really enjoy learning new skills and experiment with every technology. I hope that some of my repositories serve as a source of inspiration and be useful to you, showcasing my continuous journey of self-improvement and learning. 
 
 - 📫 How to reach me **arnauclaramunt03@gmail.com**
 
@@ -13,15 +13,16 @@
 
 <h3 align="left">Hackathons:</h3>
 
-- HackUPC 2023 - <a href="https://github.com/ArnauCS03/HackUPC2023-BattleRoyale" target="_blank"> Battle Royale </a>
+- LauzHack 2024 - 1st place - <a href="https://github.com/ArnauCS03/machine-control-monitoring" target="_blank"> Machine Control Monitoring </a>
 
-- BitsxlaMarató 2023 - <a href="https://github.com/ArnauCS03/BitsxlaMarato2023" target="_blank"> Banc de Sang microbiotes </a>
-  
-- HackUPC 2024 - <a href="https://github.com/ArnauCS03/GalileoAPIVisualizerHackUpc2024" target="_blank"> Galileo API Visulaizer </a>
-  
 - UAB the Hack 2024 - 2nd place - <a href="https://github.com/ArnauCS03/caixa-enginyers-mes-aprop" target="_blank"> Caixa Enginyers mes a prop </a>
 
-- LauzHack 2024 - 1st place - <a href="https://github.com/ArnauCS03/machine-control-monitoring" target="_blank"> Machine Control Monitoring </a>
+- HackUPC 2024 - <a href="https://github.com/ArnauCS03/GalileoAPIVisualizerHackUpc2024" target="_blank"> Galileo API Visulaizer </a>
+
+- BitsxlaMarató 2023 - <a href="https://github.com/ArnauCS03/BitsxlaMarato2023" target="_blank"> Banc de Sang microbiotes </a>
+
+- HackUPC 2023 - <a href="https://github.com/ArnauCS03/HackUPC2023-BattleRoyale" target="_blank"> Battle Royale </a>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -63,8 +64,8 @@
   <a href="https://www.kaggle.com" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="kaggle" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Unity-Dark.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Blender-Dark.svg" alt="blender" width="40" height="40"/> </a> 
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/33467679?v=4" alt="collab" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/> </a> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg" alt="fastAPI" width="40" height="40"/> </a> 
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
   <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> </a> 
@@ -76,10 +77,13 @@
   <a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Markdown-Dark.svg" alt="markdown" width="40" height="40"/> </a> 
   <a href="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg" alt="notion" width="40" height="40"/> </a>
   <a href="https://p5js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/p5js.svg" alt="p5js" width="40" height="40"/> </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" alt="androidStudio" width="40" height="40"/> </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Anaconda-Dark.svg" alt="anaconda" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://atom-editor.cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Atom_editor_logo.svg/1200px-Atom_editor_logo.svg.png" alt="atom" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/es-es/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg" alt="intellij" width="36" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/44px-Jupyter_logo.svg.png" alt="jpnotebook" width="40" height="40"/> </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/33467679?v=4" alt="collab" width="40" height="40"/> </a> 
+  <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" alt="eclipse" width="40" height="40"/> </a>
   <a href="https://devpost.com/arnau-claramunt?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/330293/devpost.svg" alt="devpost" width="44" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
