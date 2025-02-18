@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnau Claramunt</h1>
 <h3 align="center">I love C++, Python, Pathfinding Algorithms and AI.</h3>
 
-- 🔭 I’m currently studying Computer Science in **FIB-UPC Barcelona**
+- 🔭 I’m currently studying Computer Science at **FIB-UPC Barcelona**
   
 - 🌱 I’m currently learning **Reinforcement Learning**
 
