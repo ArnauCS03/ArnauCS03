@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arnau Claramunt</h1>
 <h3 align="center">I love C++, Python, Pathfinding Algorithms and AI.</h3>
 
-- 🔭 I’m currently studying Computer Science at **FIB-UPC Barcelona**
+- 🔭 I’m currently studying Deep Learning at **UPC Barcelona**
   
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **LLM agents & tool-orchestration**
 
 - 🔆 Vision: My passion lies in explaining things, helping people and sharing ideas and codes. I really enjoy learning new skills and experiment with every technology. I hope that some of my repositories serve as a source of inspiration and be useful to you, showcasing my continuous journey of self-improvement and learning. 
 
